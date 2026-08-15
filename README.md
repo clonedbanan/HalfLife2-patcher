@@ -3,7 +3,7 @@ a script to compile Half Life 2 for Apple Silicon and Intel 64 bit
 
 This script will create an Apple Silicon or Intel 6S bit version of Half Life 2 for macOS.
 
-It is adapted from https://github.com/nonoche2/Portal-patcher. which does the same thing for the original Portal
+It is adapted from https://github.com/nonoche2/Portal-patcher, which does the same thing for the original Portal
 
 ## How to use:
 
