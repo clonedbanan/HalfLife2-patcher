@@ -5,6 +5,10 @@ This script will create an Apple Silicon or Intel 6S bit version of Half Life 2 
 
 It is adapted from https://github.com/nonoche2/Portal-patcher, which does the same thing for the original Portal
 
+The same author has their own HL2 patcher here: [Half Life 2](https://github.com/nonoche2/HL2-patcher/tree/main)
+
+The biggest difference in mine is that I added mod support but its still very finicky
+
 ## How to use:
 
 - to the right of this window, click "releases", expand "assets" if necessary and click on "halflife2.Patcher.zip" to download it
@@ -77,5 +81,3 @@ russian
 spanish
 
 you can now launch Half Life 2 from Steam
-
-a similar script is available for [Half Life 2](https://github.com/nonoche2/HL2-patcher/tree/main)
