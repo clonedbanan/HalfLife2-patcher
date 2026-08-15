@@ -7,7 +7,7 @@ It is adapted from https://github.com/nonoche2/Portal-patcher, which does the sa
 
 The same author has their own HL2 patcher here: [Half Life 2](https://github.com/nonoche2/HL2-patcher/tree/main)
 
-The biggest difference in mine is that I added mod support but its still very finicky
+The biggest difference in mine is that I added mod support and a sourcemods folder in application support, but it is still very finicky.
 
 ## How to use:
 
