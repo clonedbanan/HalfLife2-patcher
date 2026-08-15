@@ -11,6 +11,8 @@ It is adapted from https://github.com/nonoche2/Portal-patcher.
 - unzip the file if necessary
 - Double click halflife2.command. You will have a Gatekeeper alert preventing the script from running, go to system settings > security and privacy, scroll down and click "open anyway".
 
+- *There may also be an issue with permissions so using the command "chmod +x ~/Downloads/halflife2.command" will fix it. if you didn't extract it to the downloads you need to hcnage the commands search location
+
 The script will open the terminal, it will make sure you have all the required dependencies, download/update them if necessary, and prompt you for your Steam login so that it can download the older version of Half Life 2
 
 - type your Steam login and hit enter
