@@ -3,12 +3,7 @@ a script to compile Half Life 2 for Apple Silicon and Intel 64 bit
 
 This script will create an Apple Silicon or Intel 6S bit version of Half Life 2 for macOS.
 
-It is adapted from [this guide](https://jxhug.notion.site/Guide-to-Installing-Portal Using-Source-Engine-on-macOS-660803f9ced149cfa1647d38fd5a7092) from 2023 which had these issues:
-- compiler commands were outdated with the latest updates to Clang
-- Valve updated the Source Engine and Half Life 2's files with Half Life 2's anniversary edition which have rendering issues with the older version of the Source Engine used for this port
-- the guide had you painstakingly copy and paste each command in the terminal
-
-This script aims to fix all these issues and create an application bundle with minimal user interaction. The script will match the game's localization to your system language settings. Note: you must own Half Life 2 on your Steam account for this to work.
+It is adapted from https://github.com/nonoche2/Portal-patcher.
 
 ## How to use:
 
